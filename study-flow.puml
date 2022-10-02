@@ -1,0 +1,91 @@
+@startuml flow-sample
+
+skinparam ComponentStyle rectangle
+top to bottom direction
+title 勉強の流れの一例
+
+component "ソフトウェアで実現できるものとC#" as software
+component プログラミング言語の成り立ち
+component オブジェクト指向
+component UML概要
+component クラス図
+component シーケンス図
+component デザインパターン概要
+component シングルトン
+component ファクトリメソッド
+component "Dependency Injection" as di
+component 他色々なデザインパターン
+component ".NET" as dotnet
+component "Visual Studioの使い方" as vs
+component 検索ワードの選び方
+component "一次情報、二次情報の区別" as infos
+component "C#の文法" as csharp
+component 自動単体テスト
+component Gitの概念
+component SourceTreeの使い方
+component "GitHub flow" as githubflow
+component "View-Doc" as viewdoc
+component VMC
+component VMP
+component MVVM
+component WPF概要
+component WPF用フレームワーク
+component XAMLの文法
+component レイアウトパネル
+component 変更通知プロパティ
+component スタイル
+component コントロールテンプレート
+component ユーザーコントロール
+component 依存関係プロパティ
+component ビヘイビア
+component 実装手段の選び方
+component ER図
+
+infos --> 検索ワードの選び方
+検索ワードの選び方 --> software
+software --> プログラミング言語の成り立ち
+software --> ER図
+プログラミング言語の成り立ち --> オブジェクト指向
+オブジェクト指向 --> UML概要
+オブジェクト指向 --> dotnet
+オブジェクト指向 --> Gitの概念
+UML概要 --> クラス図
+UML概要 --> シーケンス図
+クラス図 --> デザインパターン概要
+クラス図 --> viewdoc
+クラス図 --> MVVM
+デザインパターン概要 --> シングルトン
+デザインパターン概要 --> ファクトリメソッド
+デザインパターン概要 --> di
+デザインパターン概要 --> 他色々なデザインパターン
+di --> WPF用フレームワーク
+
+dotnet --> vs
+dotnet --> csharp
+csharp --> 自動単体テスト
+csharp --> WPF用フレームワーク
+vs --> 自動単体テスト
+
+Gitの概念 --> SourceTreeの使い方
+SourceTreeの使い方 --> githubflow
+
+viewdoc --> VMC
+VMC --> VMP
+
+MVVM --> WPF概要
+WPF概要 --> WPF用フレームワーク
+WPF用フレームワーク --> XAMLの文法
+XAMLの文法 --> レイアウトパネル
+XAMLの文法 --> スタイル
+XAMLの文法 --> 変更通知プロパティ
+スタイル --> コントロールテンプレート
+レイアウトパネル --> ユーザーコントロール
+変更通知プロパティ --> 依存関係プロパティ
+ユーザーコントロール --> 依存関係プロパティ
+依存関係プロパティ --> ビヘイビア
+スタイル --> 実装手段の選び方
+ユーザーコントロール --> 実装手段の選び方
+コントロールテンプレート --> 実装手段の選び方
+ビヘイビア --> 実装手段の選び方
+
+@enduml

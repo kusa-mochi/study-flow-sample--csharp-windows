@@ -1,0 +1,179 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?><svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" contentStyleType="text/css" height="1559px" preserveAspectRatio="none" style="width:1165px;height:1559px;background:#FFFFFF;" version="1.1" viewBox="0 0 1165 1559" width="1165px" zoomAndPan="magnify"><defs/><g><rect fill="none" height="27.6094" id="_title" style="stroke:none;stroke-width:1.0;" width="130" x="510.75" y="5"/><text fill="#000000" font-family="sans-serif" font-size="14" font-weight="bold" lengthAdjust="spacing" textLength="120" x="515.75" y="24.5332">勉強の流れの一例</text><!--MD5=[b5a43e681ff5188082669c0a2cca6322]
+entity software--><g id="elem_software"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="248" x="791" y="241.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="228" x="801" y="266.1426">ソフトウェアで実現できるものとC#</text></g><!--MD5=[f9ab0e820bb76ecf1b2ef3081a9aff9c]
+entity プログラミング言語の成り立ち--><g id="elem_プログラミング言語の成り立ち"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="216" x="722" y="339.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="196" x="732" y="364.1426">プログラミング言語の成り立ち</text></g><!--MD5=[15e46994992c79d9fa274eedaa8f8e1b]
+entity オブジェクト指向--><g id="elem_オブジェクト指向"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="132" x="764" y="437.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="774" y="462.1426">オブジェクト指向</text></g><!--MD5=[9d5ffe011fb2b890415ba214b2545666]
+entity UML概要--><g id="elem_UML概要"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="76" x="552" y="535.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="562" y="560.1426">UML概要</text></g><!--MD5=[7fedb7c81481070ae60305105f566b26]
+entity クラス図--><g id="elem_クラス図"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="76" x="552" y="633.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="562" y="658.1426">クラス図</text></g><!--MD5=[27a0ce3277719d0d2e849fc824d6872d]
+entity シーケンス図--><g id="elem_シーケンス図"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="104" x="413" y="633.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="423" y="658.1426">シーケンス図</text></g><!--MD5=[8a130ac1b176682c84307f4ba35c5c0c]
+entity デザインパターン概要--><g id="elem_デザインパターン概要"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="160" x="447" y="731.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="457" y="756.1426">デザインパターン概要</text></g><!--MD5=[b0387c0c39a6ee26a675afe9e7e2fe2f]
+entity シングルトン--><g id="elem_シングルトン"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="104" x="315" y="829.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="84" x="325" y="854.1426">シングルトン</text></g><!--MD5=[2995775df3154a5700d6a8fa7ee8b6f6]
+entity ファクトリメソッド--><g id="elem_ファクトリメソッド"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="146" x="454" y="829.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="464" y="854.1426">ファクトリメソッド</text></g><!--MD5=[5b1a34fb7ccf0e6c98f9e955f705d4f2]
+entity di--><g id="elem_di"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="156" x="635" y="829.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="136" x="645" y="854.1426">Dependency Injection</text></g><!--MD5=[487e3c3239fb71263453f21caa0057ca]
+entity 他色々なデザインパターン--><g id="elem_他色々なデザインパターン"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="188" x="92" y="829.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="168" x="102" y="854.1426">他色々なデザインパターン</text></g><!--MD5=[5b51bb1de19c3d8b5b77ed0ba391435e]
+entity dotnet--><g id="elem_dotnet"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="51" x="804.5" y="535.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="31" x="814.5" y="560.1426">.NET</text></g><!--MD5=[507948c1688a9f375792d9376f7950f2]
+entity vs--><g id="elem_vs"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="158" x="700" y="633.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="138" x="710" y="658.1426">Visual Studioの使い方</text></g><!--MD5=[f80ee02ba722ba58fd8807714f51a62c]
+entity 検索ワードの選び方--><g id="elem_検索ワードの選び方"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="146" x="842" y="143.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="852" y="168.1426">検索ワードの選び方</text></g><!--MD5=[ea5f3e7f91f73e25dad44719c289175d]
+entity infos--><g id="elem_infos"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="188" x="821" y="45.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="168" x="831" y="70.1426">一次情報、二次情報の区別</text></g><!--MD5=[b3f3e749d9c87c1de9732dac41079a99]
+entity csharp--><g id="elem_csharp"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="80" x="893" y="633.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="903" y="658.1426">C#の文法</text></g><!--MD5=[caa3261ebd0bfc0111409b9cbfc6142d]
+entity 自動単体テスト--><g id="elem_自動単体テスト"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="118" x="775" y="731.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="98" x="785" y="756.1426">自動単体テスト</text></g><!--MD5=[8d7f65c41d5076714316fab7fbba936b]
+entity Gitの概念--><g id="elem_Gitの概念"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="80" x="993" y="535.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="60" x="1003" y="560.1426">Gitの概念</text></g><!--MD5=[3492d961909d32e0ed36bd59359a3330]
+entity SourceTreeの使い方--><g id="elem_SourceTreeの使い方"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="151" x="1008.5" y="633.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="131" x="1018.5" y="658.1426">SourceTreeの使い方</text></g><!--MD5=[04ea83eb0c675e4b8e62ef45ad3081ee]
+entity githubflow--><g id="elem_githubflow"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="91" x="1038.5" y="731.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="71" x="1048.5" y="756.1426">GitHub flow</text></g><!--MD5=[c20239d23c62bbca0176d1b3f6046127]
+entity viewdoc--><g id="elem_viewdoc"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="79" x="162.5" y="731.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="172.5" y="756.1426">View-Doc</text></g><!--MD5=[ec5f98b5acaf7bbb88d350f675beca20]
+entity VMC--><g id="elem_VMC"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="50" x="7" y="829.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="30" x="17" y="854.1426">VMC</text></g><!--MD5=[74ad06dd48025b2dcc29ad3b303babb5]
+entity VMP--><g id="elem_VMP"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="49" x="7.5" y="927.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="29" x="17.5" y="952.1426">VMP</text></g><!--MD5=[d41eb083cdee46f58b6252d132f2e57f]
+entity MVVM--><g id="elem_MVVM"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="60" x="655" y="731.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="40" x="665" y="756.1426">MVVM</text></g><!--MD5=[dc68df53588ea1f89b0b794b773b7e77]
+entity WPF概要--><g id="elem_WPF概要"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="79" x="826.5" y="829.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="59" x="836.5" y="854.1426">WPF概要</text></g><!--MD5=[9be627c5b35974bd44b759b2201ee128]
+entity WPF用フレームワーク--><g id="elem_WPF用フレームワーク"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="163" x="784.5" y="927.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="143" x="794.5" y="952.1426">WPF用フレームワーク</text></g><!--MD5=[413578f2ff8fb6d1086f3cc9f6c7bb76]
+entity XAMLの文法--><g id="elem_XAMLの文法"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="98" x="817" y="1025.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="78" x="827" y="1050.1426">XAMLの文法</text></g><!--MD5=[69642e1b93975d4b6c1785d634e35492]
+entity レイアウトパネル--><g id="elem_レイアウトパネル"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="132" x="800" y="1123.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="810" y="1148.1426">レイアウトパネル</text></g><!--MD5=[629105b89595dbfcce4be7210bd743b5]
+entity 変更通知プロパティ--><g id="elem_変更通知プロパティ"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="146" x="981" y="1221.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="991" y="1246.1426">変更通知プロパティ</text></g><!--MD5=[6f7228e64b97af29433f84138f2a1ee6]
+entity スタイル--><g id="elem_スタイル"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="76" x="684" y="1319.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="56" x="694" y="1344.1426">スタイル</text></g><!--MD5=[a795e361f91b6c33a26b54071655461b]
+entity コントロールテンプレート--><g id="elem_コントロールテンプレート"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="188" x="628" y="1417.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="168" x="638" y="1442.1426">コントロールテンプレート</text></g><!--MD5=[9534b714dbd99f49a8b45db5f971d217]
+entity ユーザーコントロール--><g id="elem_ユーザーコントロール"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="160" x="786" y="1221.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="140" x="796" y="1246.1426">ユーザーコントロール</text></g><!--MD5=[e32e8d2b97735ee2dbb008d47eb74abf]
+entity 依存関係プロパティ--><g id="elem_依存関係プロパティ"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="146" x="922" y="1319.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="126" x="932" y="1344.1426">依存関係プロパティ</text></g><!--MD5=[70df6fa1cef95142f4dfba1a83c59fab]
+entity ビヘイビア--><g id="elem_ビヘイビア"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="90" x="936" y="1417.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="70" x="946" y="1442.1426">ビヘイビア</text></g><!--MD5=[3c78ec78f6c100595775819d25a05ade]
+entity 実装手段の選び方--><g id="elem_実装手段の選び方"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="132" x="729" y="1515.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="112" x="739" y="1540.1426">実装手段の選び方</text></g><!--MD5=[b41bf01b78fe6d431b060faf17a6954f]
+entity ER図--><g id="elem_ER図"><rect fill="#F1F1F1" height="37.6094" rx="2.5" ry="2.5" style="stroke:#181818;stroke-width:0.5;" width="53" x="973.5" y="339.6094"/><text fill="#000000" font-family="sans-serif" font-size="14" lengthAdjust="spacing" textLength="33" x="983.5" y="364.1426">ER図</text></g><!--MD5=[fc9de5467353aa6842d16f03aee2476e]
+link infos to 検索ワードの選び方--><g id="link_infos_検索ワードの選び方"><path d="M915,83.6694 C915,99.1194 915,121.4694 915,138.2794 " fill="none" id="infos-to-検索ワードの選び方" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="915,143.3094,919,134.3094,915,138.3094,911,134.3094,915,143.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[95deb3ebbdc5c5f2f70473f941e0b3dd]
+link 検索ワードの選び方 to software--><g id="link_検索ワードの選び方_software"><path d="M915,181.6694 C915,197.1194 915,219.4694 915,236.2794 " fill="none" id="検索ワードの選び方-to-software" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="915,241.3094,919,232.3094,915,236.3094,911,232.3094,915,241.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[841a8d9a6382926e39ea36c9b68c861a]
+link software to プログラミング言語の成り立ち--><g id="link_software_プログラミング言語の成り立ち"><path d="M899.01,279.6694 C885.09,295.3894 864.85,318.2494 849.89,335.1494 " fill="none" id="software-to-プログラミング言語の成り立ち" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="846.21,339.3094,855.1712,335.2231,849.5247,335.566,849.1818,329.9196,846.21,339.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[26df7dac3f572d25a5cb5214a127ce5e]
+link software to ER図--><g id="link_software_ER図"><path d="M930.99,279.6694 C944.91,295.3894 965.15,318.2494 980.11,335.1494 " fill="none" id="software-to-ER図" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="983.79,339.3094,980.8182,329.9196,980.4753,335.566,974.8288,335.2231,983.79,339.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[29dfb468a341d77cd3b11acf77d9bae8]
+link プログラミング言語の成り立ち to オブジェクト指向--><g id="link_プログラミング言語の成り立ち_オブジェクト指向"><path d="M830,377.6694 C830,393.1194 830,415.4694 830,432.2794 " fill="none" id="プログラミング言語の成り立ち-to-オブジェクト指向" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="830,437.3094,834,428.3094,830,432.3094,826,428.3094,830,437.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[c5f2f9ecea210e26b216e72952c70a48]
+link オブジェクト指向 to UML概要--><g id="link_オブジェクト指向_UML概要"><path d="M784.86,475.6694 C741.32,493.0794 675.89,519.2494 633.07,536.3794 " fill="none" id="オブジェクト指向-to-UML概要" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="628.22,538.3194,638.0619,538.6908,632.8624,536.4624,635.0907,531.263,628.22,538.3194" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[e9ccc3726a2fabd99778933e789fcd18]
+link オブジェクト指向 to dotnet--><g id="link_オブジェクト指向_dotnet"><path d="M830,475.6694 C830,491.1194 830,513.4694 830,530.2794 " fill="none" id="オブジェクト指向-to-dotnet" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="830,535.3094,834,526.3094,830,530.3094,826,526.3094,830,535.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[ed25cec5e237fb00c556225f2da4d429]
+link オブジェクト指向 to Gitの概念--><g id="link_オブジェクト指向_Gitの概念"><path d="M868.18,475.6694 C902.81,492.0394 953.8,516.1494 989.88,533.2194 " fill="none" id="オブジェクト指向-to-Gitの概念" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="994.64,535.4694,988.1964,528.0209,990.1149,533.3425,984.7933,535.261,994.64,535.4694" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[20e6987c92236f257a8135379d55925a]
+link UML概要 to クラス図--><g id="link_UML概要_クラス図"><path d="M590,573.6694 C590,589.1194 590,611.4694 590,628.2794 " fill="none" id="UML概要-to-クラス図" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="590,633.3094,594,624.3094,590,628.3094,586,624.3094,590,633.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[511f931759bac799a9df8d394acf8a98]
+link UML概要 to シーケンス図--><g id="link_UML概要_シーケンス図"><path d="M566.49,573.6694 C545.58,589.7194 514.99,613.2194 492.86,630.2094 " fill="none" id="UML概要-to-シーケンス図" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="488.83,633.3094,498.4069,631.0108,492.799,630.2684,493.5413,624.6605,488.83,633.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7e7cca911b9d2a3a84b49742e1a5415d]
+link クラス図 to デザインパターン概要--><g id="link_クラス図_デザインパターン概要"><path d="M578.15,671.6694 C567.92,687.2594 553.09,709.8594 542.02,726.7194 " fill="none" id="クラス図-to-デザインパターン概要" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="539.01,731.3094,547.2885,725.974,541.7505,727.1273,540.5972,721.5893,539.01,731.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[135820787fbdcd47c855cfba89bf4df6]
+link クラス図 to viewdoc--><g id="link_クラス図_viewdoc"><path d="M551.87,666.3194 C545.91,668.1694 539.81,669.9994 534,671.6094 C432.18,699.8894 310.96,726.6494 246.88,740.2594 " fill="none" id="クラス図-to-viewdoc" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="241.61,741.3794,251.2455,743.4183,246.5005,740.3385,249.5802,735.5935,241.61,741.3794" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7d4bce104ba2a73d2c3fb486bb61b891]
+link クラス図 to MVVM--><g id="link_クラス図_MVVM"><path d="M607.87,671.6694 C623.56,687.5194 646.43,710.6394 663.2,727.5794 " fill="none" id="クラス図-to-MVVM" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="666.89,731.3094,663.4102,722.0957,663.376,727.7525,657.7192,727.7182,666.89,731.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[6d3b5ff85852cc134528d57cc9659cb4]
+link デザインパターン概要 to シングルトン--><g id="link_デザインパターン概要_シングルトン"><path d="M496.91,769.6694 C469.84,785.9094 430.08,809.7594 401.69,826.7994 " fill="none" id="デザインパターン概要-to-シングルトン" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="397.23,829.4694,407.0054,828.2689,401.5175,826.8969,402.8895,821.4089,397.23,829.4694" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[56da03e5995c2783e58ba2c8e28829f5]
+link デザインパターン概要 to ファクトリメソッド--><g id="link_デザインパターン概要_ファクトリメソッド"><path d="M527,769.6694 C527,785.1194 527,807.4694 527,824.2794 " fill="none" id="デザインパターン概要-to-ファクトリメソッド" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="527,829.3094,531,820.3094,527,824.3094,523,820.3094,527,829.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[af0b702d741061e693757227debd0ac7]
+link デザインパターン概要 to di--><g id="link_デザインパターン概要_di"><path d="M561.99,769.6694 C593.58,785.9694 640.05,809.9594 673.08,827.0094 " fill="none" id="デザインパターン概要-to-di" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="677.86,829.4694,671.7064,821.7795,673.4197,827.1707,668.0286,828.884,677.86,829.4694" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[35048699cfc7ebe81995c3dbf691ad17]
+link デザインパターン概要 to 他色々なデザインパターン--><g id="link_デザインパターン概要_他色々なデザインパターン"><path d="M462.86,769.6694 C403.66,786.3294 315.96,811.0194 255.2,828.1294 " fill="none" id="デザインパターン概要-to-他色々なデザインパターン" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="250.14,829.5494,259.8877,830.9574,254.9524,828.1928,257.7171,823.2575,250.14,829.5494" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b4d7f34bcd010b11faa52f4e045df8c1]
+link di to WPF用フレームワーク--><g id="link_di_WPF用フレームワーク"><path d="M741.78,867.6694 C767.66,883.9094 805.68,907.7594 832.83,924.7994 " fill="none" id="di-to-WPF用フレームワーク" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="837.09,927.4694,831.5854,919.3024,832.8524,924.8155,827.3393,926.0825,837.09,927.4694" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[7eac4b802d813bf6feb18db9531b93e0]
+link dotnet to vs--><g id="link_dotnet_vs"><path d="M820.41,573.6694 C812.13,589.2594 800.12,611.8594 791.16,628.7194 " fill="none" id="dotnet-to-vs" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="788.72,633.3094,796.4725,627.2349,791.064,628.8929,789.4061,623.4844,788.72,633.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[30647b51a0bd36bc6d324b5066836a67]
+link dotnet to csharp--><g id="link_dotnet_csharp"><path d="M849.37,573.6694 C866.39,589.5194 891.18,612.6394 909.36,629.5794 " fill="none" id="dotnet-to-csharp" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="913.36,633.3094,909.511,624.2438,909.7052,629.8973,904.0517,630.0914,913.36,633.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[07e1d6eba5e91e87f9957c7592fc80e9]
+link csharp to 自動単体テスト--><g id="link_csharp_自動単体テスト"><path d="M914.38,671.6694 C898.03,687.5194 874.19,710.6394 856.72,727.5794 " fill="none" id="csharp-to-自動単体テスト" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="852.87,731.3094,862.1184,727.9231,856.4623,727.8316,856.5539,722.1754,852.87,731.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[4c9f44aacd727200b1332d3c1363ddde]
+link csharp to WPF用フレームワーク--><g id="link_csharp_WPF用フレームワーク"><path d="M935.57,671.7494 C940.19,709.4894 947.3,798.6794 923,867.6094 C915.56,888.7194 900.39,909.0194 887.56,923.6094 " fill="none" id="csharp-to-WPF用フレームワーク" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="884.02,927.5694,893.0062,923.5384,887.3577,923.8465,887.0496,918.1981,884.02,927.5694" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[d233a0f9a716cfa5e2adfccbf76fa2fa]
+link vs to 自動単体テスト--><g id="link_vs_自動単体テスト"><path d="M789.35,671.6694 C798.28,687.2594 811.23,709.8594 820.88,726.7194 " fill="none" id="vs-to-自動単体テスト" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="823.51,731.3094,822.5108,721.5113,821.0262,726.9699,815.5677,725.4854,823.51,731.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[5ef9728c75059813cb1aecacb24be1a2]
+link Gitの概念 to SourceTreeの使い方--><g id="link_Gitの概念_SourceTreeの使い方"><path d="M1042.59,573.6694 C1050.87,589.2594 1062.88,611.8594 1071.84,628.7194 " fill="none" id="Gitの概念-to-SourceTreeの使い方" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1074.28,633.3094,1073.5939,623.4844,1071.936,628.8929,1066.5275,627.2349,1074.28,633.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[dc793ef2308871b6b89254cb66d7ba4c]
+link SourceTreeの使い方 to githubflow--><g id="link_SourceTreeの使い方_githubflow"><path d="M1084,671.6694 C1084,687.1194 1084,709.4694 1084,726.2794 " fill="none" id="SourceTreeの使い方-to-githubflow" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1084,731.3094,1088,722.3094,1084,726.3094,1080,722.3094,1084,731.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[3aa3afb0c60a017252bdbcd2c8887905]
+link viewdoc to VMC--><g id="link_viewdoc_VMC"><path d="M170.02,769.6694 C138.98,787.1994 92.23,813.5994 61.91,830.7194 " fill="none" id="viewdoc-to-VMC" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="57.19,833.3794,66.9942,832.4426,61.5452,830.9233,63.0645,825.4743,57.19,833.3794" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[f5434678c4ff6bf6b037ce3555d46d37]
+link VMC to VMP--><g id="link_VMC_VMP"><path d="M32,867.6694 C32,883.1194 32,905.4694 32,922.2794 " fill="none" id="VMC-to-VMP" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="32,927.3094,36,918.3094,32,922.3094,28,918.3094,32,927.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[6fd59e6c7a0bbb37c1891eb5c80e959a]
+link MVVM to WPF概要--><g id="link_MVVM_WPF概要"><path d="M715.3,767.6794 C746.12,784.0194 793.98,809.4094 827.48,827.1794 " fill="none" id="MVVM-to-WPF概要" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="831.9,829.5194,825.8255,821.7669,827.4835,827.1753,822.0751,828.8333,831.9,829.5194" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[5e76a663f111457e2b805d445dc2a560]
+link WPF概要 to WPF用フレームワーク--><g id="link_WPF概要_WPF用フレームワーク"><path d="M866,867.6694 C866,883.1194 866,905.4694 866,922.2794 " fill="none" id="WPF概要-to-WPF用フレームワーク" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="866,927.3094,870,918.3094,866,922.3094,862,918.3094,866,927.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[edcbb10719668a8de9c199b03f9f5704]
+link WPF用フレームワーク to XAMLの文法--><g id="link_WPF用フレームワーク_XAMLの文法"><path d="M866,965.6694 C866,981.1194 866,1003.4694 866,1020.2794 " fill="none" id="WPF用フレームワーク-to-XAMLの文法" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="866,1025.3094,870,1016.3094,866,1020.3094,862,1016.3094,866,1025.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[61fd89d37c7543cdf8f9f9cfbb1a6eaa]
+link XAMLの文法 to レイアウトパネル--><g id="link_XAMLの文法_レイアウトパネル"><path d="M866,1063.6694 C866,1079.1194 866,1101.4694 866,1118.2794 " fill="none" id="XAMLの文法-to-レイアウトパネル" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="866,1123.3094,870,1114.3094,866,1118.3094,862,1114.3094,866,1123.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b474bebca05e4c4990c9898e6cea9f25]
+link XAMLの文法 to スタイル--><g id="link_XAMLの文法_スタイル"><path d="M839.62,1063.8894 C820.95,1078.1294 796.72,1099.4894 782,1123.6094 C743.93,1185.9894 729.35,1273.2094 724.34,1314.3594 " fill="none" id="XAMLの文法-to-スタイル" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="723.75,1319.3794,728.7784,1310.9109,724.3367,1314.4139,720.8337,1309.9722,723.75,1319.3794" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[3e68d008dd7f340af8f6687e5b7e74aa]
+link XAMLの文法 to 変更通知プロパティ--><g id="link_XAMLの文法_変更通知プロパティ"><path d="M886.22,1063.7694 C903.3,1079.2994 928.22,1102.4394 949,1123.6094 C980.12,1155.3094 1014.33,1193.8494 1034.98,1217.5494 " fill="none" id="XAMLの文法-to-変更通知プロパティ" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1038.43,1221.5094,1035.534,1212.0959,1035.1456,1217.7394,1029.5021,1217.351,1038.43,1221.5094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[25a6d9542ab61fa1dacc39387aa913be]
+link スタイル to コントロールテンプレート--><g id="link_スタイル_コントロールテンプレート"><path d="M722,1357.6694 C722,1373.1194 722,1395.4694 722,1412.2794 " fill="none" id="スタイル-to-コントロールテンプレート" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="722,1417.3094,726,1408.3094,722,1412.3094,718,1408.3094,722,1417.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[a3c76624981dcc581b02b967608a77d0]
+link レイアウトパネル to ユーザーコントロール--><g id="link_レイアウトパネル_ユーザーコントロール"><path d="M866,1161.6694 C866,1177.1194 866,1199.4694 866,1216.2794 " fill="none" id="レイアウトパネル-to-ユーザーコントロール" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="866,1221.3094,870,1212.3094,866,1216.3094,862,1212.3094,866,1221.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[9d8a13fb799b0500b11df1e5d5b22907]
+link 変更通知プロパティ to 依存関係プロパティ--><g id="link_変更通知プロパティ_依存関係プロパティ"><path d="M1042.9,1259.6694 C1033.32,1275.2594 1019.43,1297.8594 1009.07,1314.7194 " fill="none" id="変更通知プロパティ-to-依存関係プロパティ" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="1006.25,1319.3094,1014.3683,1313.7332,1008.8665,1315.0486,1007.5511,1309.5468,1006.25,1319.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[612d26a9e2c14b3a7d70973f48320d9b]
+link ユーザーコントロール to 依存関係プロパティ--><g id="link_ユーザーコントロール_依存関係プロパティ"><path d="M890.26,1259.6694 C911.84,1275.7194 943.41,1299.2194 966.25,1316.2094 " fill="none" id="ユーザーコントロール-to-依存関係プロパティ" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="970.41,1319.3094,965.5757,1310.7286,966.398,1316.3254,960.8013,1317.1478,970.41,1319.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[6d39d9be3d206bd4598f779be4063f9a]
+link 依存関係プロパティ to ビヘイビア--><g id="link_依存関係プロパティ_ビヘイビア"><path d="M992.37,1357.6694 C990.11,1373.1194 986.85,1395.4694 984.4,1412.2794 " fill="none" id="依存関係プロパティ-to-ビヘイビア" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="983.67,1417.3094,988.9161,1408.974,984.3851,1412.3608,980.9983,1407.8298,983.67,1417.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[b248804d7d0a7d4474248ab233085bd0]
+link スタイル to 実装手段の選び方--><g id="link_スタイル_実装手段の選び方"><path d="M683.66,1356.6594 C641.71,1377.8094 583.69,1415.9594 610,1455.6094 C635.28,1493.6994 683.22,1513.2394 723.97,1523.2294 " fill="none" id="スタイル-to-実装手段の選び方" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="728.9,1524.3994,721.072,1518.4225,724.0361,1523.2406,719.218,1526.2047,728.9,1524.3994" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[808db2266a7906899e55fe2d300bf3b8]
+link ユーザーコントロール to 実装手段の選び方--><g id="link_ユーザーコントロール_実装手段の選び方"><path d="M865.04,1259.7794 C862.66,1297.1994 855,1385.2894 833,1455.6094 C826.93,1475.0194 816.69,1495.6594 808.37,1510.8194 " fill="none" id="ユーザーコントロール-to-実装手段の選び方" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="805.85,1515.3494,813.7174,1509.4245,808.2782,1510.9786,806.7242,1505.5394,805.85,1515.3494" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[cf467eacff585551889473e35bfc9320]
+link コントロールテンプレート to 実装手段の選び方--><g id="link_コントロールテンプレート_実装手段の選び方"><path d="M735.73,1455.6694 C747.69,1471.3894 765.07,1494.2494 777.92,1511.1494 " fill="none" id="コントロールテンプレート-to-実装手段の選び方" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="781.08,1515.3094,778.8198,1505.7234,778.0549,1511.3283,772.45,1510.5635,781.08,1515.3094" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[e19ce6ab96993e5e94fdb63c180161a3]
+link ビヘイビア to 実装手段の選び方--><g id="link_ビヘイビア_実装手段の選び方"><path d="M946.01,1455.6694 C914.42,1471.9694 867.95,1495.9594 834.92,1513.0094 " fill="none" id="ビヘイビア-to-実装手段の選び方" style="stroke:#181818;stroke-width:1.0;"/><polygon fill="#181818" points="830.14,1515.4694,839.9714,1514.884,834.5803,1513.1707,836.2936,1507.7795,830.14,1515.4694" style="stroke:#181818;stroke-width:1.0;"/></g><!--MD5=[499659636f00fa9a1986dd630c42f7b5]
+@startuml flow-sample
+
+skinparam ComponentStyle rectangle
+top to bottom direction
+title 勉強の流れの一例
+
+component "ソフトウェアで実現できるものとC#" as software
+component プログラミング言語の成り立ち
+component オブジェクト指向
+component UML概要
+component クラス図
+component シーケンス図
+component デザインパターン概要
+component シングルトン
+component ファクトリメソッド
+component "Dependency Injection" as di
+component 他色々なデザインパターン
+component ".NET" as dotnet
+component "Visual Studioの使い方" as vs
+component 検索ワードの選び方
+component "一次情報、二次情報の区別" as infos
+component "C#の文法" as csharp
+component 自動単体テスト
+component Gitの概念
+component SourceTreeの使い方
+component "GitHub flow" as githubflow
+component "View-Doc" as viewdoc
+component VMC
+component VMP
+component MVVM
+component WPF概要
+component WPF用フレームワーク
+component XAMLの文法
+component レイアウトパネル
+component 変更通知プロパティ
+component スタイル
+component コントロールテンプレート
+component ユーザーコントロール
+component 依存関係プロパティ
+component ビヘイビア
+component 実装手段の選び方
+component ER図
+
+infos - -> 検索ワードの選び方
+検索ワードの選び方 - -> software
+software - -> プログラミング言語の成り立ち
+software - -> ER図
+プログラミング言語の成り立ち - -> オブジェクト指向
+オブジェクト指向 - -> UML概要
+オブジェクト指向 - -> dotnet
+オブジェクト指向 - -> Gitの概念
+UML概要 - -> クラス図
+UML概要 - -> シーケンス図
+クラス図 - -> デザインパターン概要
+クラス図 - -> viewdoc
+クラス図 - -> MVVM
+デザインパターン概要 - -> シングルトン
+デザインパターン概要 - -> ファクトリメソッド
+デザインパターン概要 - -> di
+デザインパターン概要 - -> 他色々なデザインパターン
+di - -> WPF用フレームワーク
+
+dotnet - -> vs
+dotnet - -> csharp
+csharp - -> 自動単体テスト
+csharp - -> WPF用フレームワーク
+vs - -> 自動単体テスト
+
+Gitの概念 - -> SourceTreeの使い方
+SourceTreeの使い方 - -> githubflow
+
+viewdoc - -> VMC
+VMC - -> VMP
+
+MVVM - -> WPF概要
+WPF概要 - -> WPF用フレームワーク
+WPF用フレームワーク - -> XAMLの文法
+XAMLの文法 - -> レイアウトパネル
+XAMLの文法 - -> スタイル
+XAMLの文法 - -> 変更通知プロパティ
+スタイル - -> コントロールテンプレート
+レイアウトパネル - -> ユーザーコントロール
+変更通知プロパティ - -> 依存関係プロパティ
+ユーザーコントロール - -> 依存関係プロパティ
+依存関係プロパティ - -> ビヘイビア
+スタイル - -> 実装手段の選び方
+ユーザーコントロール - -> 実装手段の選び方
+コントロールテンプレート - -> 実装手段の選び方
+ビヘイビア - -> 実装手段の選び方
+
+@enduml
+
+PlantUML version 1.2022.7(Tue Aug 23 02:01:30 JST 2022)
+(GPL source distribution)
+Java Runtime: Java(TM) SE Runtime Environment
+JVM: Java HotSpot(TM) 64-Bit Server VM
+Default Encoding: MS932
+Language: en
+Country: US
+--></g></svg>
