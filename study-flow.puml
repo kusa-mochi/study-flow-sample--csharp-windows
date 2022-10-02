@@ -17,8 +17,8 @@ component "Dependency Injection" as di
 component 他色々なデザインパターン
 component ".NET" as dotnet
 component "Visual Studioの使い方" as vs
-component 検索ワードの選び方
-component "一次情報、二次情報の区別" as infos
+component 検索ワードの選び方 #Pink
+component "一次情報、二次情報の区別" as infos #Pink
 component "C#の文法" as csharp
 component 自動単体テスト
 component Gitの概念
